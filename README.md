@@ -1,0 +1,1 @@
+This project is a dynamic and responsive currency converter website developed using modern web technologies including HTML, CSS, Tailwind CSS, JavaScript, React, and Vite. The application allows users to easily convert amounts between different currencies with real-time exchange rates fetched from a reliable API.
