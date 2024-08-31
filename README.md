@@ -1,1 +1,8 @@
-This project is a dynamic and responsive currency converter website developed using modern web technologies including HTML, CSS, Tailwind CSS, JavaScript, React, and Vite. The application allows users to easily convert amounts between different currencies with real-time exchange rates fetched from a reliable API.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
